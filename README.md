@@ -6,6 +6,10 @@ relevance, please report them on the github!
 --------------------------------------------
 Instructions:
 
+Add this bot to your server:
+----------------------------
+https://discord.com/api/oauth2/authorize?client_id=704770027387093024&permissions=8&scope=bot
+
 If you delete a single file (other than this file, "instructions.txt"),
 the program will error on launch.  Do not delete a single one.
 
