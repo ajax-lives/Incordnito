@@ -1,7 +1,7 @@
 # Incordnito
 A discord bot and webhooker written in Python converted to a Windows .EXE that allows to send and read end to end encrypted messages allowing for privacy inside Discord servers with the ability to generate and share keys to communicate with true privacy!
 
-Thank you for trying Incordnito V1.0, if you discover any errors of
+Thank you for trying Incordnito, if you discover any errors of
 relevance, please report them on the github!
 --------------------------------------------
 Instructions:
@@ -56,4 +56,6 @@ This would be a case in which a person of interest would
 be able to run a program that would constantly test tons of keys until
 they find the one that works.
 -----------------------------
+"runCount.txt" is used to detect if the program has been run, do not delete this, it will regenerate your key.
+-------------------------------------------------------------------------------------------------------------
 Enjoy!
