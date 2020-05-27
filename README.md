@@ -49,7 +49,6 @@ WARNING:
 If you click the "Generate Key" button, you will have to redo this!
 
 * DO NOT MESS WITH THESE BIN FILES:
----------------
   * runCount.txt
   * cog.png
 
