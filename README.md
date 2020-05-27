@@ -48,10 +48,10 @@ WARNING:
 -------------------
 If you click the "Generate Key" button, you will have to redo this!
 
-Markup : * DO NOT MESS WITH THESE BIN FILES:
-----------------
-* runCount.txt
-* cog.png
+* DO NOT MESS WITH THESE BIN FILES:
+---------------
+  * runCount.txt
+  * cog.png
 
 runCount.txt if deleted will regenerate reset your key, if its contents are changed in anyway, the program will error (easy fix:  delete it, I will be updating soon to fix this and make it redundant)
 
