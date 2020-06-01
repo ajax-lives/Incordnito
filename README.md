@@ -2,8 +2,6 @@
 
 Made by Crunch
 
-e c k s d e e has down syndrome.
-
 A discord bot and webhooker written in Python converted to a Windows .EXE that allows to send and read end to end encrypted messages allowing for privacy inside Discord servers with the ability to generate and share keys to communicate with true privacy!
 
 Notice:  If anyone would like to try their hand at making a proper and well made tutorial on YouTube, I will credit them here and inside Incordnito, leave an issue letting me know if you would like to/already did.
