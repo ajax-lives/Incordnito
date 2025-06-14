@@ -1,8 +1,6 @@
 # Incordnito
 
-**This project is now deprecated, as the source code has been lost.**
-
-Made by Munch
+**This project is now deprecated, as the source code has been lost. -- This has since been relocated, however it is unlikely this works anymore, and our team has since moved to Element years ago, so this is entirely unneeded and is now archived, with the source made available again. It's old and not anywhere near my standards nowadays, but preservation is good.**
 
 A discord bot and webhooker written in Python converted to a Windows .EXE that allows to send and read end to end encrypted messages allowing for privacy inside Discord servers with the ability to generate and share keys to communicate with true privacy!
 
